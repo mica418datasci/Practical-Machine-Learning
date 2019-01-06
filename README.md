@@ -3,7 +3,7 @@ MachineLearning
 
 Course project for Coursera Practical Machine Learning Course
 
-#Files
+Files
 * pml-testing.csv: Testing set for course project
 * pml-training.csv: Training set for course project
 * project.R: Exploratory code fo course project
